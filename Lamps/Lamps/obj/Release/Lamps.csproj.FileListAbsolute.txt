@@ -1,0 +1,7 @@
+F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\bin\Release\Lamps.exe.config
+F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\bin\Release\Lamps.exe
+F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\bin\Release\Lamps.pdb
+F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\obj\Release\Lamps.csproj.CoreCompileInputs.cache
+F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\obj\Release\Lamps.exe
+F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\obj\Release\Lamps.pdb
+F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\obj\Release\Lamps.csproj.AssemblyReference.cache
