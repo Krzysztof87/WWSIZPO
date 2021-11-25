@@ -4,3 +4,4 @@ F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\bin\Debug\Lamps.pdb
 F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\obj\Debug\Lamps.csproj.CoreCompileInputs.cache
 F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\obj\Debug\Lamps.exe
 F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\obj\Debug\Lamps.pdb
+F:\WWSI zajecia\szczepanski\ZPO\Lamps\Lamps\obj\Debug\Lamps.csproj.AssemblyReference.cache

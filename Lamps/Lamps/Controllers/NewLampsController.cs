@@ -22,24 +22,10 @@ namespace Lamps
             foreach (ILampThatBeeps bl in lampsCollection)
             {
                 bl.DoBeep();
+                bl.TurnOn();
+                bl.TurnOff();
             }
         }
 
-        public void Toggle()
-        {
-            foreach (ILampThatBeeps l in lampsCollection)
-            {
-                bool isLampOn = l.IsOn();
-
-                if (isLampOn)
-                {
-                    l.TurnOff();
-                }
-                else
-                {
-                    l.TurnOn();
-                }
-            }
-        }
     }
 }

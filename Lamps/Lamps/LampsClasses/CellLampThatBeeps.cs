@@ -3,7 +3,7 @@ using System;
 
 namespace Lamps.LampsClasses
 {
-    class CellLampThatBeeps : ILampThatBeeps
+    class CellLampThatBeeps : ILampThatBeeps, ILamp
     {
         private bool isOn = false;
 
